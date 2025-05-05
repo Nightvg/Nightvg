@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobi</h1>
-<h3 align="center">An embedded systems student and enthusiast, but I also do some data science and visualization (at least sometimes)</h3>
+<h3 align="center">currently TU Chemnitz research associate interested in embedded systems, aviation and verification.</h3>
 
 - 📫 How to reach me **www.linkedin.com/in/tobias-allrich-84b455205**
-- 🌱 I’m currently learning how to be better in electronics and PCB design. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tobias-allrich-84b455205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tobias-allrich-84b455205" height="30" width="40" /></a>
